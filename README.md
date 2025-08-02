@@ -14,4 +14,4 @@ Link : https://vaultcode.streamlit.app
 
 
 
-### ✨ Yeah, the copy to clipboard thing is broken — and guess what? I’m not gonna fix it (at least not today). Priorities, right? ✨
+###  Yeah, the copy to clipboard thing is broken — and guess what? I’m not gonna fix it (at least not today). Priorities, right? 🥱
