@@ -42,16 +42,15 @@ streamlit run app.py
 
 ## Screenshots 📸
 
-![VaultCode screenshot 1](screenshots/vc_ss_01.png)
 
 ![VaultCode screenshot 2](screenshots/vc_ss_02.png)
 
-![VaultCode screenshot 3](screenshots/vc_ss_03.png)
 
-## Honest limitations ⚠️
+## Use cases 💡
 
-- **Key derivation is a plain SHA-256 hash of the password** — no salt, no iteration count. This is fine for a fun/learning project, but isn't how you'd derive keys in anything meant to resist real attacks (that would call for something like PBKDF2, scrypt, or Argon2).
-- **"Copy to clipboard" doesn't work** — it relies on the system clipboard, which isn't available on Streamlit Cloud's hosted environment. Known issue, not currently planned to fix. Just copy the output text manually.
+- Send a sensitive note over chat or email without it being readable in plain text
+- Quick personal encryption for notes, passwords, or reminders you want to keep private
+- A hands-on way to see symmetric encryption in action — type a message, watch it transform, decode it right back
 
 ## Why this exists 💭
 
