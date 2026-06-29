@@ -50,7 +50,7 @@ streamlit run app.py
 
 - Send a sensitive note over chat or email without it being readable in plain text
 - Quick personal encryption for notes, passwords, or reminders you want to keep private
-- A hands-on way to see symmetric encryption in action — type a message, watch it transform, decode it right back
+- A hands-on way to see symmetric encryption in action — type a message, watch it transform, decode it right back.
 
 ## Why this exists 💭
 
